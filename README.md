@@ -66,17 +66,17 @@ Calendar_Event/
 - Dart SDK (comes with Flutter)
 
 ### ▶️ Run Instructions
-#### 🌐 Web
+- #### 🌐 Web
 ```bash
 flutter run -d chrome
 ```
 
-#### 🤖 Android
+- #### 🤖 Android
 ```bash
 flutter run
 ```
 
-#### 🍎 iOS
+- #### 🍎 iOS
 ```bash
 flutter run
 ```
