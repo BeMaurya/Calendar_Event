@@ -135,6 +135,8 @@ The Calendar Event application follows a client–backend architecture using Flu
 ## ❤️ Contributions
 Contributions are welcome!
 > Fork the repo → Create a branch → Add feature → Submit PR
+
+
 </br></br>
 <div align="center">
 <p>📘 This project is created strictly for educational and learning purposes.</p>
