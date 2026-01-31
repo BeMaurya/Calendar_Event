@@ -5,8 +5,8 @@ This project demonstrates event management functionality while exploring multi-p
 
 ## 📌 Project Overview
 
-The Calendar Event Application allows users to create and manage calendar-based events across different platforms.
-It showcases how Flutter can be used to build applications for Android, iOS, and Web using a unified architecture.
+The Calendar Event Application allows users to create and manage calendar-based events across different platforms.  
+It showcases how Flutter can be used to build applications for Android, iOS, and Web using a unified architecture.  
 
 This project was created for educational and learning purposes, focusing on cross-platform development concepts.
 
@@ -66,15 +66,20 @@ Calendar_Event/
 - Dart SDK (comes with Flutter)
 
 ### ▶️ Run Instructions
-- 🌐 Web
-
+#### 🌐 Web
+```bash
 flutter run -d chrome
+```
 
-- 🤖 Android
+#### 🤖 Android
+```bash
 flutter run
+```
 
-- 🍎 iOS
+#### 🍎 iOS
+```bash
 flutter run
+```
 
 **(Run from macOS with Xcode installed)**
 
